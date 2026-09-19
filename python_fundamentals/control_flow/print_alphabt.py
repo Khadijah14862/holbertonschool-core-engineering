@@ -6,5 +6,4 @@ for letter in "abcdefghijklmnopqrstuvwxyz":
     if letter == "e" or letter == "q":
         continue
     output += letter
-
-print("{}".format(output))
+print("{}".format(output), end="")
