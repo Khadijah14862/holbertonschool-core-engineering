@@ -7,4 +7,4 @@ for letter in "abcdefghijklmnopqrstuvwxyz":
         continue
     output += letter
 
-print(output)
+print("{}".format(output))
