@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Append text to a UTF-8 file."""
 
